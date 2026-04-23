@@ -1,0 +1,16 @@
+Positive test
+valid input --> system --> expected result
+
+- happy path
+- checks if system works as expected
+- checks if features are working as intended
+
+------------------------------------------------------------------
+
+Negative test
+invalid imput --> system --> error
+
+- what happens when the input data are not correct
+e.g. invalid passoword, too long text exceeding the limit, temperature out of range, forbidden characters, invalid data or unexpected user behaviour
+
+Bug: Application allowed 
