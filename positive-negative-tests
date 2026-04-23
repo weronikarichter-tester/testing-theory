@@ -14,3 +14,5 @@ invalid imput --> system --> error
 - verifying if the system correctly rejects invalid data
 - what happens when the input is not correct
 e.g. invalid passoword, too long text exceeding the limit, temperature out of range, forbidden characters, invalid data or unexpected user behaviour
+
+
