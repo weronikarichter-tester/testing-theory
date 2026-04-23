@@ -1,0 +1,9 @@
+Boundary Value Analysis (BVA) 
+Focused on checking the minimum and maximum values at the boundaries of the range, as the errors most likely occurs in this area.
+e.g. User is asked to enter age. Range 18-56
+BVA values: 
+* 3 point: 17, 18, 19 and 55, 56, 57
+* 2 point: 17, 18 and 56, 57
+
+------------------------------------------------------------------------------------------------------------------------------------
+
